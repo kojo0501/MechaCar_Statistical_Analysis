@@ -36,15 +36,19 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/24308495/149041859-746845a6-e440-4fc0-afbf-ee1cfbfa5735.png)
+
 For all lots combined, we must accept the alternative hypothesis becasue the p-value is ~0.602
 
 ![image](https://user-images.githubusercontent.com/24308495/149041077-d681c721-fd4c-4b5f-a4d2-a00f453f609e.png)
+
 For Lot 1, we can accept the null hyptothesis. The mean of this lot matches the population mean of 1,500. 
 
 ![image](https://user-images.githubusercontent.com/24308495/149041270-3c9496ba-286a-4f2f-b966-fc1b6684c3d1.png)
+
 For Lot 2, we must accept the alternative hypothesis because the p-value is ~0.607
 
 ![image](https://user-images.githubusercontent.com/24308495/149041661-26890f3a-394c-4cfd-ae92-f414499c7b71.png)
+
 For Lot 3, we must accept the alternative hypothesis because the p-value is ~0.041
 
 -
